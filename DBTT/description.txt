@@ -1,0 +1,39 @@
+A mod i made for Dragon Ball Terraria that remove the infinitely ramping up ki drain of ssj forms and my attempt at balancing transformations around it.
+If you feel or think something is either Underpowered or Overpowered, consider giving me feedback in my discord server
+
+*Special thanks to 
+-screen shdaers
+-Exterminator,
+-GabeHasWon 
+-And many others in the TModLoader discord for helping me make this mod
+*Credits for the main mod: the Dragon Ball Terraria team
+ 
+ Changelog:
+ -1.0.25
+ Buffed Ki blast,Spirit bomb,Final Flash and Final Shine
+ -1.0.24
+   Detransforming now revert your state by one instead of going to base(to go back to base hold charge then detransform)
+ -1.0.22
+ Super Kaioken now work similarly with kaioken(drain less when you have more ki)
+ increased Bigbang attack's ki drain 
+-1.0.20
+ Nerfed super kaioken
+ -Hotfixes
+ Buffed Kaioken
+ increased Ssjg's ki cost
+ Changed Ussj damage multiplier to the correct value
+ Reduced passive ki drain of ssj3 and lssj but increased their attack ki cost
+ -1.0.15
+ Changes to Lssj forms to make them more unique
+ Tuned ki drain across all forms again
+ -1.0.14
+Reduced ki drain for every form due to it being too high(thank Xero for the very detailed feedback)
+ Streamlined Kaioken's health drain
+ -1.0.13
+ Increased Lssj drain
+ increased the time it take to master super saiyan by a lot
+ Reduced ingredient costs for Ki potions and Ki Stimulant, increased duration for Ki Stimulant
+ -1.0.12
+ Kaioken now stop draining health when you are stronger
+ -1.0.11
+ Release

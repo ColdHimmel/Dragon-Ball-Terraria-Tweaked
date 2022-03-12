@@ -1,0 +1,10 @@
+displayName = Dragon Ball Terraria Tweaked
+author = ColdHeaven
+version = 1.0.25
+homepage = https://discord.gg/gb8fqTfET5
+modReferences = DBZMOD, CalamityMod
+modReferences = DBZMOD
+dllReferences = MMHOOK_DBZMOD_v1.0.9.4
+includeSource = true
+includePDB = true
+sortAfter = DBZMOD
